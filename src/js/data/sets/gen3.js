@@ -484,8 +484,7 @@ var SETDEX_ADV = {
   "Koffing": {
     "LC Defensive": {"level":5,"ability":"Levitate","item":"Sitrus Berry","nature":"Impish","ivs":{"sa":30,"sd":30},"evs":{"hp":116,"at":76,"df":236,"sp":80},"moves":["Sludge Bomb","Hidden Power Ground","Thief","Explosion"]},
     "ZU Defensive": {"ability":"Levitate","item":"Leftovers","nature":"Relaxed","ivs":{"at":30,"df":30,"sa":30},"evs":{"hp":252,"at":4,"df":252},"moves":["Sludge Bomb","Hidden Power Water","Will-O-Wisp","Pain Split"]},
-    "ZU Sun Setter": {"ability":"Levitate","item":"Leftovers","nature":"Relaxed","ivs":{"at":30,"sa":30},"evs":{"hp":252,"at":4,"df":252},"moves":["Sunny Day","Sludge Bomb","Hidden Power Grass","Pain Split"]},
-    "PU Showdown Usage": {"ability":"Levitate","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Sludge Bomb","Explosion","Protect","Toxic"]}
+    "ZU Sun Setter": {"ability":"Levitate","item":"Leftovers","nature":"Relaxed","ivs":{"at":30,"sa":30},"evs":{"hp":252,"at":4,"df":252},"moves":["Sunny Day","Sludge Bomb","Hidden Power Grass","Pain Split"]}
   },
   "Weezing": {
     "OU Defensive": {"ability":"Levitate","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sp":4},"moves":["Sludge Bomb","Haze","Will-O-Wisp","Pain Split"]},
@@ -648,8 +647,7 @@ var SETDEX_ADV = {
     "LC Sunny Day": {"level":5,"ability":"Flash Fire","item":"Sitrus Berry","nature":"Timid","evs":{"df":76,"sa":236,"sp":196},"moves":["Sunny Day","Fire Blast","Solar Beam","Substitute"]},
     "LC Offensive": {"level":5,"ability":"Flash Fire","item":"Sitrus Berry","nature":"Hasty","evs":{"sa":236,"sd":76,"sp":196},"moves":["Substitute","Overheat","Body Slam","Toxic"]},
     "ZU Fast Mixed Attacker": {"ability":"Flash Fire","item":"Silk Scarf","nature":"Hasty","ivs":{"at":30,"sa":30},"evs":{"at":252,"sa":4,"sp":252},"moves":["Double-Edge","Fire Blast","Hidden Power Grass","Quick Attack"]},
-    "ZU Sunny Day": {"ability":"Run Away","item":"Lum Berry","nature":"Hasty","ivs":{"sa":30,"sd":30},"evs":{"at":4,"sa":252,"sp":252},"moves":["Sunny Day","Fire Blast","Solar Beam","Hidden Power Ground"]},
-    "PU Showdown Usage": {"ability":"Flash Fire","item":"Choice Band","nature":"Jolly","ivs":{"df":30,"sa":30,"sd":30,"sp":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Fire Blast","Double-Edge","Quick Attack","Hidden Power Fighting"]}
+    "ZU Sunny Day": {"ability":"Run Away","item":"Lum Berry","nature":"Hasty","ivs":{"sa":30,"sd":30},"evs":{"at":4,"sa":252,"sp":252},"moves":["Sunny Day","Fire Blast","Solar Beam","Hidden Power Ground"]}
   },
   "Rapidash": {
     "UU SunnyBeam": {"ability":"Flash Fire","item":"Leftovers","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Sunny Day","Solar Beam","Flamethrower","Hypnosis"]},
@@ -664,8 +662,7 @@ var SETDEX_ADV = {
     "OU Curse": {"ability":"Own Tempo","item":"Leftovers","nature":"Brave","evs":{"hp":252,"at":176,"sd":80},"moves":["Curse","Earthquake","Ice Beam","Rest"]}
   },
   "Magnemite": {
-    "LC Offensive Utility": {"level":5,"ability":"Sturdy","item":"Sitrus Berry","nature":"Modest","ivs":{"at":2,"sa":30},"evs":{"df":36,"sa":240,"sd":76,"sp":156},"moves":["Thunderbolt","Hidden Power Grass","Toxic","Substitute"]},
-    "PU Showdown Usage": {"ability":"Magnet Pull","item":"Leftovers","nature":"Modest","ivs":{"at":30,"sa":30},"evs":{"sa":252,"sd":80,"sp":176},"moves":["Thunder Wave","Thunderbolt","Hidden Power Grass","Metal Sound"]}
+    "LC Offensive Utility": {"level":5,"ability":"Sturdy","item":"Sitrus Berry","nature":"Modest","ivs":{"at":2,"sa":30},"evs":{"df":36,"sa":240,"sd":76,"sp":156},"moves":["Thunderbolt","Hidden Power Grass","Toxic","Substitute"]}
   },
   "Magneton": {
     "OU Trapper": {"ability":"Magnet Pull","item":"Magnet","nature":"Modest","ivs":{"at":30,"sa":30,"sp":30},"evs":{"hp":4,"sa":252,"sp":252},"moves":["Thunderbolt","Hidden Power Fire","Toxic","Protect"]},
@@ -738,8 +735,7 @@ var SETDEX_ADV = {
   },
   "Cubone": {
     "LC Offensive": {"level":5,"ability":"Rock Head","item":"Thick Club","evs":{"hp":36,"at":196,"sd":120,"sp":156},"moves":["Bonemerang","Double-Edge","Rock Slide","Protect"]},
-    "ZU Swords Dance": {"ability":"Rock Head","item":"Thick Club","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Double-Edge","Substitute"]},
-    "PU Showdown Usage": {"ability":"Rock Head","item":"Thick Club","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Double-Edge","Swords Dance","Bonemerang","Substitute"]}
+    "ZU Swords Dance": {"ability":"Rock Head","item":"Thick Club","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Double-Edge","Substitute"]}
   },
   "Marowak": {
     "OU Swords Dance": {"ability":"Rock Head","item":"Thick Club","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Swords Dance","Bonemerang","Rock Slide","Focus Punch"]},
@@ -785,13 +781,11 @@ var SETDEX_ADV = {
     "NU Flail": {"ability":"Water Veil","item":"Liechi Berry","nature":"Lonely","evs":{"at":252,"sa":184,"sp":72},"moves":["Agility","Substitute","Hydro Pump","Flail"]},
     "NU Choice Band": {"ability":"Water Veil","item":"Choice Band","nature":"Lonely","ivs":{"sa":30,"sd":30},"evs":{"at":252,"sa":148,"sp":108},"moves":["Megahorn","Ice Beam","Hydro Pump","Hidden Power Ground"]},
     "ZU Mixed": {"ability":"Water Veil","item":"Leftovers","nature":"Lonely","ivs":{"df":30,"sd":30,"sp":30},"evs":{"hp":252,"at":176,"sd":20,"sp":60},"moves":["Hydro Pump","Megahorn","Hidden Power Rock","Protect"]},
-    "ZU Choice Band": {"ability":"Water Veil","item":"Choice Band","nature":"Lonely","ivs":{"at":30,"sa":30},"evs":{"at":252,"sa":4,"sp":252},"moves":["Double-Edge","Megahorn","Hydro Pump","Hidden Power Grass"]},
-    "PU Showdown Usage": {"ability":"Swift Swim","item":"Lum Berry","nature":"Modest","ivs":{"at":30,"sa":30},"evs":{"hp":184,"sa":252,"sp":72},"moves":["Hydro Pump","Rain Dance","Hidden Power Grass","Ice Beam"]}
+    "ZU Choice Band": {"ability":"Water Veil","item":"Choice Band","nature":"Lonely","ivs":{"at":30,"sa":30},"evs":{"at":252,"sa":4,"sp":252},"moves":["Double-Edge","Megahorn","Hydro Pump","Hidden Power Grass"]}
   },
   "Staryu": {
     "LC Offensive Utility": {"level":5,"ability":"Natural Cure","item":"Sitrus Berry","nature":"Timid","ivs":{"at":2,"sa":30},"evs":{"hp":36,"df":76,"sa":120,"sp":236},"moves":["Hydro Pump","Thunderbolt","Ice Beam","Hidden Power Grass"]},
-    "ZU Offensive": {"ability":"Natural Cure","item":"Leftovers","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Surf","Thunderbolt","Substitute","Recover"]},
-    "PU Showdown Usage": {"ability":"Natural Cure","item":"Leftovers","nature":"Timid","ivs":{"at":30,"sa":30,"sp":30},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Rapid Spin","Surf","Psychic","Hidden Power Fire"]}
+    "ZU Offensive": {"ability":"Natural Cure","item":"Leftovers","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Surf","Thunderbolt","Substitute","Recover"]}
   },
   "Starmie": {
     "OU Offensive": {"ability":"Natural Cure","item":"Leftovers","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Hydro Pump","Ice Beam","Thunderbolt","Rapid Spin"]},
@@ -1095,7 +1089,6 @@ var SETDEX_ADV = {
   },
   "Houndour": {
     "LC Special Attacker": {"level":5,"ability":"Early Bird","item":"Sitrus Berry","nature":"Modest","ivs":{"at":2,"sa":30},"evs":{"df":36,"sa":200,"sd":116,"sp":156},"moves":["Fire Blast","Crunch","Hidden Power Grass","Pursuit"]},
-    "PU Showdown Usage": {"ability":"Flash Fire","item":"Leftovers","nature":"Modest","ivs":{"at":30,"sa":30},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Crunch","Pursuit","Fire Blast","Hidden Power Grass"]},
     "NU Showdown Usage": {"ability":"Early Bird","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Pursuit","Flamethrower","Crunch","Will-O-Wisp"]}
   },
   "Houndoom": {
@@ -1561,12 +1554,11 @@ var SETDEX_ADV = {
     "Ubers Support": {"ability":"Pressure","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"at":80,"df":76,"sd":84,"sp":16},"moves":["Spikes","Knock Off","Recover","Shadow Ball"]},
     "Ubers Taunt + Calm Mind": {"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":252,"sa":240,"sp":16},"moves":["Psychic","Calm Mind","Taunt","Recover"]}
   },
-  "Poliwhirl": {
-    "PU Showdown Usage": {"ability":"Water Absorb","item":"Salac Berry","nature":"Impish","ivs":{"df":30,"sd":30},"evs":{"hp":244,"at":40,"df":188,"sd":20,"sp":16},"moves":["Belly Drum","Brick Break","Hidden Power Ghost","Substitute"]},
-    "RU Showdown Usage": {"ability":"Damp","item":"Salac Berry","nature":"Jolly","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30},"evs":{"at":252,"df":24,"sp":232},"moves":["Belly Drum","Earthquake","Endure","Hidden Power Flying"]}
-  },
   "Girafarig": {
     "UU Showdown Usage": {"ability":"Early Bird","item":"Leftovers","nature":"Bold","evs":{"hp":196,"df":212,"sp":100},"moves":["Calm Mind","Psychic","Rest","Crunch"]}
+  },
+  "Poliwhirl": {
+    "RU Showdown Usage": {"ability":"Damp","item":"Salac Berry","nature":"Jolly","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30},"evs":{"at":252,"df":24,"sp":232},"moves":["Belly Drum","Earthquake","Endure","Hidden Power Flying"]}
   },
   "Cyndaquil": {
     "LC Showdown Usage": {"level":5,"ability":"Blaze","item":"Salac Berry","nature":"Timid","ivs":{"at":30,"sa":30},"evs":{"df":12,"sa":200,"sd":36,"sp":236},"moves":["Hidden Power Grass","Endure","Flamethrower","Quick Attack"]}
